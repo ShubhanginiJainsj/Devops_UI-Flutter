@@ -1,5 +1,7 @@
 # Devops-UI
 Mobile Application of DevOps-UI, a cool way to use docker and Kubernetes from a mobile app. 🌼 ❤️
+<br>
+This app provides the features of using Docker and Kubernetes. The server is deployed using AWS and using the CGI link of the server deployed, the app is provided with the functionality of using docker and Kubernetes commands through mobile UI. 🤓 😄 🌸 🌸
 
 
 ## ScreenShots
