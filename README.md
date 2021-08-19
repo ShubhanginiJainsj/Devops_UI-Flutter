@@ -12,6 +12,6 @@ Mobile Application of DevOps-UI, a cool way to use docker and Kubernetes from a 
 ---
 
 ## Project Created & Maintained By
-# Shubham Kumar <a href="https://www.linkedin.com/in/shubham-kumar-kashyap/"> <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/shubham-kumar-kashyap/"> Shubham Kumar</a>
 # Shivam Prasad Upadhyay <a href="https://www.linkedin.com/in/shivam-prasad-upadhyay/"> <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 
